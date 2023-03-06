@@ -1,0 +1,33 @@
+html, body {
+  margin-left: 0%;
+  margin-top: 0%;
+}
+.table-responsive {
+  border: 1px solid rgba(0, 0, 0, .11);
+  text-align: center;
+  background-color:rgb(168, 168, 168);
+  color:black'
+}
+#buttons {
+  padding: 10px;
+  text-align: center;
+}
+.controls-item {
+  display: inline-block;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+th, td {
+  padding: 8px;
+  text-align: left;
+}
+th {
+  background-color: rgb(183, 217, 255);
+  text-align: center;
+}
+td {
+  background-color:rgb(255, 255, 255);
+  text-align: center;
+}
